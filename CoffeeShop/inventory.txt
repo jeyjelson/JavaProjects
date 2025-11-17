@@ -1,0 +1,7 @@
+Americano,2.50
+Cappucino,2.50
+Latte,2.50
+Frappucino,2.85
+Double Espresso,2.95
+Iced coffee,3.65
+Iced Tea,4.50
