@@ -1,13 +1,13 @@
-## Java Projects
+# Java Projects
 
-A set of Java projects showcasing GUI design, OOP, and event-driven programming.
+A portfolio of Java GUI and OOP projects that I have worked on 
 
-Projects
+## Projects
 
-CoffeeShop
-GUI-based coffee ordering simulation with pricing and item selection.
-Concepts: Swing UI, event handling, OOP structure, input validation.
+### **CoffeeShop**
+GUI-based coffee ordering system where users select drinks and view prices.  
+**Concepts:** Java Swing, event handling, UI components, OOP structure.
 
-HouseHoldCooker & MouseEventDemo
-Appliance simulator + mouse interaction demo.
-Concepts: Java Swing, event listeners, classes/objects, interface usage.
+### **HouseHoldCooker & MouseEventDemo**
+Appliance simulation paired with interactive mouse event demonstrations.  
+**Concepts:** Swing GUI, mouse listeners, interfaces, event-driven programming.
